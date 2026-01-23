@@ -1,0 +1,12 @@
+{
+    "games": [
+        {
+            "name": "Assassin's Creed 2",
+            "steam_appid": "33230",
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Assassins_Creed_II_Box_Art.jpg",
+            "parts": [
+                "https://github.com/axsid0810/bypass-game-n-seed/releases/download/1.0/Assassin.s.Creed.2.zip"
+            ]
+        }
+    ]
+}
