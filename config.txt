@@ -5,3 +5,7 @@ launch_option=WINEDLLOVERRIDES="dxgi=n,b" %command%
 [12345]
 instruction=No special steps needed. Just play!
 launch_option=
+
+[33230]
+instruction=No special steps needed. Just play!
+launch_option=WINEDLLOVERRIDES="dxgi=n,b" %command%
