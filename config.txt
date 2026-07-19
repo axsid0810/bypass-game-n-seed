@@ -1,0 +1,7 @@
+[33230]
+instruction=Make sure to run the game in Desktop mode first before launching in Gaming Mode.
+launch_option=WINEDLLOVERRIDES="dxgi=n,b" %command%
+
+[12345]
+instruction=No special steps needed. Just play!
+launch_option=
