@@ -9,3 +9,7 @@ launch_option=
 [1174180]
 instruction=No special steps needed. Just play!
 launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/Launcher.exe; "${cmd[@]}"'
+
+[1222680]
+instruction=just play directly on steam after patch
+launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/NeedForSpeedHeat.exe; "${cmd[@]}"'
