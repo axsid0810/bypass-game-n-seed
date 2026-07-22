@@ -1,0 +1,19 @@
+[33230]
+instruction=Make sure to run the game in Desktop mode first before launching in Gaming Mode.
+launch_option=WINEDLLOVERRIDES="dxgi=n,b" %command%
+
+[12345]
+instruction=No special steps needed. Just play!
+launch_option=
+
+[1174180]
+instruction=No special steps needed. Just play!
+launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/Launcher.exe; "${cmd[@]}"'
+
+[1222680]
+instruction=just play directly on steam after patch
+launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/NeedForSpeedHeat.exe; "${cmd[@]}"'
+
+[368500]
+instruction=just play directly on steam after patch
+launch_option=PROTON_DISABLE_NVAPI=1 %command% uplay://launch/1875
