@@ -1,5 +1,15 @@
-[1174180]
+[1174180] red dead 2
 instruction=No special steps needed. Just play!
 launch_option="C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\Launcher.exe" %command%
 
+[1262560] nfs most wanted
+instruction=No special steps needed. Just play!
+launch_option="C:\Program Files (x86)\Steam\steamapps\common\Need for Speed(TM) Most Wanted\NFS13.exe" %command%
 
+[1222680] nfs heat
+instruction=No special steps needed. Just play!
+launch_option= ⁨"C:\Program Files (x86)\Steam\steamapps\common\Need for Speed Heat\NeedForSpeedHeat.exe" %command%
+
+[1174180]
+instruction=No special steps needed. Just play!
+launch_option="C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\Launcher.exe" %command%
