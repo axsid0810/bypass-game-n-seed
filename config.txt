@@ -6,18 +6,18 @@ launch_option=WINEDLLOVERRIDES="dxgi=n,b" %command%
 instruction=No special steps needed. Just play!
 launch_option=
 
-[1174180]
+[1174180] red dead
 instruction=No special steps needed. Just play!
 launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/Launcher.exe; "${cmd[@]}"'
 
-[1222680]
+[1222680] need for speed heat
 instruction=just play directly on steam after patch
 launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/NeedForSpeedHeat.exe; "${cmd[@]}"'
 
-[368500]
+[368500] 
 instruction=just play directly on steam after patch
 launch_option=PROTON_DISABLE_NVAPI=1 %command% uplay://launch/1875
 
-[3240220]
+[3240220] gta v
 instruction=just play directly on steam after patch
 launch_option=WINEDLLOVERRIDES="socialclub=n,b;version=n,b" %command%
