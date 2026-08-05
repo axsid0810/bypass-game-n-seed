@@ -6,7 +6,7 @@ launch_option=WINEDLLOVERRIDES="dxgi=n,b" %command%
 instruction=No special steps needed. Just play!
 launch_option=
 
-[1174180] red dead
+[1174180]
 instruction=No special steps needed. Just play!
 launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/Launcher.exe; "${cmd[@]}"'
 
