@@ -940,7 +940,6 @@ Marvel Ultimate Alliance 2 = 311820
 Marvel vs Capcom Infinite = 493840
 Marvels Avengers = 720780
 Mashinky = 598960
-Meccha Chameleon = 4704690
 MechWarrior 5 Clans = 2000890
 MechWarrior 5 Mercenaries = 784080
 Mechabellum = 669330
