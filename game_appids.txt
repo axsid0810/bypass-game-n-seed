@@ -461,7 +461,6 @@ Eco = 1301020
 Eden Crafters = 2570210
 Edge Of The Abyss Awaken = 1641670
 Eggstraction = 3419690
-Elden Ring = 1245620
 Eleven Table Tennis VR = 488310
 Ember Knights = 1135230
 Embr = 1062830
