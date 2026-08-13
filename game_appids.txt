@@ -1449,7 +1449,6 @@ Software Inc = 362620
 Solarpunk = 1805110
 Solasta Crown of the Magister = 1096530
 Solium Infernum = 1893810
-Solo Leveling ARISE OVERDRIVE = 2373990
 Son of Nor = 264000
 Son of a Witch = 539400
 Songs of Conquest = 867210
