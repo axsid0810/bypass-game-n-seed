@@ -1148,7 +1148,6 @@ Perennial Order = 1411020
 Perfect Heist 2 = 1521580
 Phantom Hysteria = 1774770
 Phantom Squad = 2841770
-Phasmophobia = 739630
 Pic-Me! = 3265280
 Pickup Basketball VR = 1475200
 Pioneers of Pagonia = 2155180
