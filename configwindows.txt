@@ -13,3 +13,7 @@ launch_option= ⁨"C:\Program Files (x86)\Steam\steamapps\common\Need for Speed 
 [1174180]
 instruction=No special steps needed. Just play!
 launch_option="C:\Program Files (x86)\Steam\steamapps\common\Red Dead Redemption 2\Launcher.exe" %command%
+
+[1238840]
+instruction=No special steps needed. Just play!
+launch_option="C:\Program Files (x86)\Steam\steamapps\common\Battlefield 1\bf1.exe" %command%
