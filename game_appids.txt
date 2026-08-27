@@ -1887,3 +1887,4 @@ iDigging = 3447690
 iRacing Arcade = 3226450
 ibb & obb = 95400
 theHunter Call of the Wild = 518790
+NBA 2K27 = 4356430
