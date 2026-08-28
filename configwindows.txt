@@ -24,4 +24,4 @@ launch_option=-onlinefix
 
 [1222700]
 instruction=No special steps needed. Just play!
-launch_option="C:\Program Files (x86)\Steam\steamapps\common\AWayOut\Haze1\Binaries\Win64\AWayOut.exe" %command%
+launch_option= "C:\Program Files (x86)\Steam\steamapps\common\AWayOut\Haze1\Binaries\Win64\AWayOut.exe" %command%
