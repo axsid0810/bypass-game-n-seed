@@ -19,7 +19,6 @@ A Gentlemen's Dispute = 2820700
 A Hat in Time = 253230
 A House of Thieves = 1506760
 A Total War Saga THRONES OF BRITANNIA = 712100
-A Way Out = 1222700
 A Way To Be Dead = 1480030
 ACE COMBAT 7 SKIES UNKNOWN = 502500
 AColony = 1200570
