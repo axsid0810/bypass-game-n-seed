@@ -19,7 +19,7 @@ instruction=No special steps needed. Just play!
 launch_option="C:\Program Files (x86)\Steam\steamapps\common\Battlefield 1\bf1.exe" %command%
 
 [4356430]
-instruction=No special steps needed. Just play!
+instruction=play it with online easy anti cheat(not offline)
 launch_option=-onlinefix
 
 [1222700]
