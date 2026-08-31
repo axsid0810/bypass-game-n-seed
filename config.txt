@@ -26,7 +26,9 @@ launch_option=WINEDLLOVERRIDES="socialclub=n,b;version=n,b" %command%
 instruction=No special steps needed. Just play!
 launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/bf3.exe; "${cmd[@]}"'
 
-[1172380]
+[4356430]
 instruction=No special steps needed. Just play!
-launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/SwGame/Binaries/Win64/SwGame-Win64-Shipping.exe; "${cmd[@]}"'
+launch_option=PROTON_DISABLE_LSTEAMCLIENT=1 WINEDLLOVERRIDES="version=n,b,xinput1_3=n,b" %command%
+
+
 
