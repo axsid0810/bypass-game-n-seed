@@ -8,7 +8,7 @@ launch_option="C:\Program Files (x86)\Steam\steamapps\common\Need for Speed(TM) 
 
 [1222680] nfs heat
 instruction=No special steps needed. Just play!
-launch_option= ⁨"C:\Program Files (x86)\Steam\steamapps\common\Need for Speed Heat\NeedForSpeedHeat.exe" %command%
+launch_option="C:\Program Files (x86)\Steam\steamapps\common\Need for Speed Heat\NeedForSpeedHeat.exe" %command%
 
 [1174180]
 instruction=No special steps needed. Just play!
@@ -20,4 +20,8 @@ launch_option="C:\Program Files (x86)\Steam\steamapps\common\Battlefield 1\bf1.e
 
 [1222700]
 instruction=No special steps needed. Just play!
-launch_option= "C:\Program Files (x86)\Steam\steamapps\common\AWayOut\Haze1\Binaries\Win64\AWayOut.exe" %command%
+launch_option="C:\Program Files (x86)\Steam\steamapps\common\AWayOut\Haze1\Binaries\Win64\AWayOut.exe" %command%
+
+[2406770]
+instruction=No special steps needed. Just play!
+launch_option=-onlinefix -realappid
