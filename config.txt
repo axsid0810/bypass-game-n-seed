@@ -30,5 +30,8 @@ launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/bf3.exe; "${cmd[@]}"'
 instruction=No special steps needed. Just play!
 launch_option=PROTON_DISABLE_LSTEAMCLIENT=1 WINEDLLOVERRIDES="version=n,b,xinput1_3=n,b" %command%
 
+[1547000]
+instruction=No special steps needed. Just play!
+launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/PlayGTASanAndreas.bat; "${cmd[@]}"'
 
 
