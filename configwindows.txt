@@ -29,3 +29,10 @@ launch_option=-onlinefix -realappid
 [1225570]
 instruction=No special steps needed. Just play!
 launch_option="C:\Program Files (x86)\Steam\steamapps\common\UnravelTwo\UnravelTwo.exe" %command%
+
+[4080220]
+instruction=add fc 27 on the app install it. play once. then add the fc 27 lite on the app or steam store, click bypass then play
+launch_option="C:\Program Files (x86)\Steam\steamapps\common\EA SPORTS FC 27\launcher.exe" %command%
+
+
+
