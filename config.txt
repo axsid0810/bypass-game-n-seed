@@ -34,4 +34,7 @@ launch_option=PROTON_DISABLE_LSTEAMCLIENT=1 WINEDLLOVERRIDES="version=n,b,xinput
 instruction=No special steps needed. Just play!
 launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/PlayGTASanAndreas.bat; "${cmd[@]}"'
 
+[3259780]
+instruction=No special steps needed. Just play!
+launch_option=WINEDLLOVERRIDES="winmm=n,b;lsteamclient=d" %command%
 
