@@ -46,5 +46,8 @@ launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/PlayGTASanAndreas.bat; "$
 instruction=No special steps needed. Just play!
 launch_option=WINEDLLOVERRIDES="winmm=n,b;lsteamclient=d" /home/deck/.local/bin/linuwux %command%
 
+[2288340]
+instruction=No special steps needed. Just play!
+launch_option=WINEDLLOVERRIDES="winmm=n,b;lsteamclient=d" /home/deck/.local/bin/linuwux %command%
 
 
