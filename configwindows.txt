@@ -42,5 +42,9 @@ launch_option="C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\gns
 instruction=No special steps needed. Just play!
 launch_option="C:\Program Files (x86)\Steam\steamapps\common\Call of Duty HQ\gnsmw4.exe" %command%
 
+[1659040]
+instruction=No special steps needed. Just play!
+launch_option="C:\Program Files (x86)\Steam\steamapps\common\HITMAN 3\Retail\HITMAN3.exe" %command%
+
 
 
