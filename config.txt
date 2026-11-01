@@ -40,11 +40,10 @@ launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/PlayGTASanAndreas.bat; "$
 
 [3259780]
 instruction=No special steps needed. Just play!
-launch_option=WINEDLLOVERRIDES="winmm=n,b;lsteamclient=d" /home/deck/.local/bin/linuwux %command%
-
+launch_option=WINEDLLOVERRIDES="winmm=n,b;lsteamclient=d" sh -c '[ -x ~/.local/bin/linuwux ] || curl -fsSL https://raw.githubusercontent.com/brcly/linuwux-runtime/main/install.sh | bash; exec ~/.local/bin/linuwux "$@"' sh %command%
 [2288340]
 instruction=No special steps needed. Just play!
-launch_option=WINEDLLOVERRIDES="winmm=n,b;lsteamclient=d" /home/deck/.local/bin/linuwux %command%
+launch_option=WINEDLLOVERRIDES="winmm=n,b;lsteamclient=d" sh -c '[ -x ~/.local/bin/linuwux ] || curl -fsSL https://raw.githubusercontent.com/brcly/linuwux-runtime/main/install.sh | bash; exec ~/.local/bin/linuwux "$@"' sh %command%
 
 [1238820]
 instruction=No special steps needed. Just play!
