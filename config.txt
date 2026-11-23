@@ -53,6 +53,9 @@ launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/bf3.exe; "${cmd[@]}"'
 instruction=No special steps needed. Just play!
 launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/PlayGTA3.bat; "${cmd[@]}"'
 
+[1774580]
+instruction=No special steps needed. Just play!
+launch_option=bash -c 'cmd=("$@"); for i in "${!cmd[@]}"; do if [[ ${cmd[i]} == waitforexitandrun && -n ${cmd[i+1]:-} ]]; then cmd[i+1]="${STEAM_COMPAT_INSTALL_PATH:-$PWD}/SwGame/Binaries/Win64/JediSurvivor.exe"; break; fi; done; exec "${cmd[@]}"' -- %command%
 
 
 curl -fsSL https://raw.githubusercontent.com/brcly/linuwux-runtime/main/install.sh | bash
