@@ -59,7 +59,7 @@ launch_option=bash -c 'cmd=("$@"); for i in "${!cmd[@]}"; do if [[ ${cmd[i]} == 
 
 [4115450]
 instruction=No special steps needed. Just play!
-launch_option=bash -c "cmd=(%command%)"'; cmd[-1]=$PWD/platform/steam/PBZ.exe; "${cmd[@]}"'
+launch_option=bash -c 'exec "${@/%\/steam\/PBZ.exe/\/platform\/steam\/PBZ.exe}"' -- %command%
 
 
 curl -fsSL https://raw.githubusercontent.com/brcly/linuwux-runtime/main/install.sh | bash
